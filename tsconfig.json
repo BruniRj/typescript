@@ -1,0 +1,8 @@
+{
+    "buildOptions": {
+        "outDir": "dist"
+    },
+    "files": [
+        "src/app.ts"
+    ]
+}
